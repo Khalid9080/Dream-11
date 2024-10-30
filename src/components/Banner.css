@@ -1,0 +1,14 @@
+
+
+.bg{
+    background-color: black;
+}
+
+.banner-button {
+
+    outline: #E7FE29;
+    outline: 10px;
+    outline-offset: 5px;
+    border: 2px solid #E7FE29;
+    margin: 10px;
+}
